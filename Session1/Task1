@@ -1,2 +1,10 @@
 Q1: 5 images
 
+Q2: docker run alpine cat /etc/hostnam
+
+Q3: docker pull alpine:noble
+
+Q4:1- docker run -d erseco/alpine-php-webservere
+   2- no
+
+Q5: docker run -p 55:8080 erseco/alpine-php-webservere
