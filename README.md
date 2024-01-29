@@ -1,1 +1,1 @@
-# Tasks for docker workshop
+# Docker workshop tasks
