@@ -7,4 +7,8 @@ Q3: docker pull alpine:noble
 Q4:1- docker run -d erseco/alpine-php-webservere
    2- no
 
-Q5: docker run -p 55:8080 erseco/alpine-php-webservere
+Q5: docker run -p 55:8080 erseco/alpine-php-webserver
+
+Q7: docker ps -a
+    docker stop 82b17
+    docker rm 82b17
