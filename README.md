@@ -1,1 +1,1 @@
-# OSC_Tasks
+# Tasks for docker workshop
