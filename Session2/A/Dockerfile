@@ -1,5 +1,5 @@
 FROM alpine
 
-run apk add g++
+RUN apk add g++
 
 
